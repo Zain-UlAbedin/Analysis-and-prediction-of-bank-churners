@@ -15,7 +15,9 @@
 
 ## EDA
 Before doing Data preparation I did EDA and the reason is there were 6 attributes with categorical data, and I wanted to analyze them before applying onehotencoding on them to ready the
-dataset for model. The EDA Analysis was thorough.
+dataset for model. The EDA Analysis was thorough, some samples from the project
+![alt text](https://github.com/Zain-UlAbedin/Analysis-and-prediction-of-bank-churners/blob/master/customers_income.png "Customers by salary")
+![alt text](https://github.com/Zain-UlAbedin/Analysis-and-prediction-of-bank-churners/blob/master/martial_status.png "Customers by their martial status")
 
 
 ## Data Preparation
